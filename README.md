@@ -1,7 +1,7 @@
 
 ## Olá! Me chamo Bruno Santos.
 
-- ☕ Futuro Desenvolvedor Backend
+- ☕ Desenvolvedor Backend
 - 📚 Aluno do Curso Técnico SENAI
 
 
